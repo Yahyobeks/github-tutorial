@@ -7,3 +7,7 @@ body {
     font-family: sans-serif;
     text-transform: capitalize;
 }
+
+h1 {
+    text-align: center;
+}
