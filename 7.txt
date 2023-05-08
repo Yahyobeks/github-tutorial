@@ -1,4 +1,12 @@
-// 1: git init
-// 2: git config --local user.name "Yahyobek"
-// 3: git config --local user.name ergashboevyahyo12@gmail.com
-// 4: git status
+git init
+git config --local user.name "Yahyobek"
+git config --local user.name ergashboevyahyo12@gmail.com 
+git commit -m "first commit"
+
+// New Lesson
+git remote add origin https://github.com/Yahyobeks/github-tutorial.git
+git branch -M main
+git push -u origin main
+
+// My Password
+yahyobek1215
