@@ -1,0 +1,4 @@
+// 1: git init
+// 2: git config --local user.name "Yahyobek"
+// 3: git config --local user.name ergashboevyahyo12@gmail.com
+// 4: git status
