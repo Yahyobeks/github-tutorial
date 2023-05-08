@@ -10,3 +10,8 @@ git push -u origin main
 
 // My Password
 yahyobek1215
+
+// New Github tutorial
+git statusg
+git add your file
+git commit -m "add new y file"
